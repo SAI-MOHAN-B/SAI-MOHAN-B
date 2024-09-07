@@ -16,7 +16,7 @@
 - 🤘 I keep building projects,here are some
   - [Redfin-DataAnalytics-ETL](https://github.com/SAI-MOHAN-B/Redfin-DataAnalytics-ETL)
   - [Data Pipeline with Reddit, Airflow, Celery, Postgres, S3, AWS Glue, Athena, and Redshift](https://github.com/SAI-MOHAN-B/Reddit-DataEngineering-Pipeline)
-  - [FootBallEtlWebScrapping](https://github.com/SAI-MOHAN-B/FootballDataEngineering)
+  - [FootBallETLWebScrapping](https://github.com/SAI-MOHAN-B/FootballDataEngineering)
 - My Certifications and Courses
   - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/3427a493-1a2b-438d-be00-3f0fd8c48789/public_url)
   - [AWS Certified Cloud Partitioner](https://www.credly.com/badges/da76d728-1df0-414a-9a4c-19fbd57ec446/public_url)
